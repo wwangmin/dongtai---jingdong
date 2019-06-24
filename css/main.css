@@ -1,0 +1,29 @@
+li{
+	list-style-type:none;
+}
+a,a:visited{
+	text-decoration:none;
+	color:black;
+}
+a:hover{
+	color:#e4393c;
+}
+input,button{
+	outline:none;
+}
+.container{
+	margin:0 auto;
+	background-color:#f1f3ee;
+}
+b{
+	background-image: url(../sprite/service.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
+g{
+	background-image: url(../sprite/footer.png);
+	background-repeat:no-repeat;
+	display:inline-block;
+	vertical-align:middle;
+}
